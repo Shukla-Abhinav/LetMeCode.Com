@@ -226,7 +226,7 @@ footer{
     margin-top:40px;
   }
   #showcase {
-    height: 550px;
+    height: 1000px;
   }
   .section{
     height: 7000px;
@@ -245,6 +245,6 @@ footer{
   footer{
     display: none;
   }
-  
+ 
 
 }
