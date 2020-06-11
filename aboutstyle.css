@@ -70,7 +70,7 @@
   border-radius: 12px;
 }
 .p1{
-  width: 50%;
+  width: 55%;
 }
 .p2{
   width: 48%;
@@ -83,6 +83,13 @@
 }
 .p5{
   width: 48%;
+}
+}
+.p6{
+  width: 35%;
+}
+.p7{
+  width: 50%;
 }
 
 .progress-bar span{
