@@ -83,6 +83,14 @@
   text-transform: uppercase;
   margin-bottom: 10px;
 }
+
+
+.service-title h3{
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
 .service-desc{
   font-size: 14px;
 }
